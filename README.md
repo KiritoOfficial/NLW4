@@ -25,4 +25,4 @@ Para a criação desta API, foram usadas às seguintes dependências:
 3. Clone este repositório
 4. Acesse a pasta do projeto e execute o comando `yarn` para instalar todas às dependências
 5. Assim que a instalação terminar, digite o comando `yarn dev`
-6. A API estará rodando na port 3333 (caso ela esteja em uso altere ela em `server.ts`)
+6. Servidor estará rodando na port 3333 (caso ela esteja em uso altere ela em `server.ts`)

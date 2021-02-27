@@ -21,7 +21,7 @@ Para a criação desta API, foram usadas às seguintes dependências:
 ## 📁 Como testar o projeto?
 
 1. Instale o [Yarn](https://yarnpkg.com/)
-2. Instale o [NodeJs](https://nodejs.org/en/)
+2. Instale o [Node.js](https://nodejs.org/en/)
 3. Clone este repositório
 4. Acesse a pasta do projeto e execute o comando `yarn` para instalar todas às dependências
 5. Assim que a instalação terminar, digite o comando `yarn dev`

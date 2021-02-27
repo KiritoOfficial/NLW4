@@ -4,7 +4,7 @@ Este é a 4° edição da NLW _(Next Level Week)_ promovido pela Rocketseat, uma
 
 ## 👨‍💻 O que foi desenvolvido?
 
-Na trilha de Node.js (Backend), foi desenvolvido uma API de [NPS](https://pt.wikipedia.org/wiki/Net_Promoter_Score) (**Net Promoter Score**), com sistema de cadastramento de usuários, cadastramento de pesquisas, envio de email com pesquisa e cálcula do NPS.
+Na trilha de Node.js (Backend), foi desenvolvido uma API de [NPS](https://pt.wikipedia.org/wiki/Net_Promoter_Score) (**Net Promoter Score**), com sistema de cadastramento de usuários, cadastro de pesquisas, envio de e-mails com pesquisa e cálculo do NPS.
 
 ## ⚙ Quais tecnologias foram usadas?
 
